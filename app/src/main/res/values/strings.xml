@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IntentinAja</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_bundle">Bundle</string>
+    <string name="btn_serializable">Serializable</string>
+    <string name="txt_explicit">Explicit Intent</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_age">Age</string>
+    <string name="txt_year">Year</string>
+    <string name="txt_dial">Dial</string>
+    <string name="txt_whatsapp">Whatsapp</string>
+    <string name="txt_number">Phone Number</string>
+    <string name="txt_message">Message</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_dial">Dial</string>
+    <string name="btn_parcel">Parcelable</string>
+    <string name="txt_hint_name">Your Name</string>
+    <string name="txt_hint_age">Your Age</string>
+    <string name="txt_not_found">Not Found</string>
+
+    <string name="dummy_name">Man Dummy</string>
+    <string name="dummy_age">25</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settexting">SetTexting</string>
+</resources>

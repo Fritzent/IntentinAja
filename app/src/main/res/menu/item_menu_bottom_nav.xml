@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Bundle"
+        android:title="@string/btn_bundle"
+        android:icon="@drawable/ic_bundel"
+        />
+    <item android:id="@+id/Serializable"
+        android:title="@string/btn_serializable"
+        android:icon="@drawable/ic_serial"
+        />
+    <item android:id="@+id/Parcelable"
+        android:title="@string/btn_parcel"
+        android:icon="@drawable/ic_parcel"
+        />
+    <item android:id="@+id/Dial"
+        android:title="@string/btn_dial"
+        android:icon="@drawable/ic_call"
+        />
+    <item android:id="@+id/WhatsApps"
+        android:title="@string/txt_whatsapp"
+        android:icon="@drawable/ic_message"
+        />
+</menu>
